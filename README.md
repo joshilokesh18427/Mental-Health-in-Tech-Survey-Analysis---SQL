@@ -1,6 +1,6 @@
 # Mental Health Survey Analysis - SQL & Python
 
-This project conducts an exploratory data analysis (EDA) of a mental health survey dataset, utilizing SQL for data validation, manipulation, and exploration and Python for data visualization.
+This project conducts an exploratory data analysis (EDA) on a mental health survey dataset, utilizing SQL for data validation, manipulation, and exploration and Python for data visualization.
 
 ## Dataset Overview
 This data is from Open Source Mental Illness (OSMI) using survey data from the years 2014, 2016, 2017, 2018 and 2019, comprising of 3 tables:
@@ -48,7 +48,6 @@ This data is from Open Source Mental Illness (OSMI) using survey data from the y
    - **Employment Factors**: Investigated the relationship between self-employment, company size, remote work, and mental health.
    - **Mental Health Treatment**: Assessed the proportion of respondents who have sought treatment and the impact of family history.
    - **Workplace Support**: Evaluated the availability of mental health benefits, wellness programs, and the ease of taking leave for mental health reasons.
-   - **Perceptions and Consequences**: Explored attitudes towards discussing mental health and observed consequences in the workplace.
 
 4. **Visualization**: Utilized Python libraries to create visual representations of the findings, including bar charts, histograms, and pie charts. 
 
@@ -78,4 +77,4 @@ The analysis provides insights into the state of mental health awareness and sup
 - Python libraries: pandas, matplotlib, seaborn, sqlite3
 
 ## References
-- Mental Health in Tech Survey Dataset -https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry/data?select=mental_health.sqlite
+- [Mental Health in Tech Survey Dataset](https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry/data?select=mental_health.sqlite)
