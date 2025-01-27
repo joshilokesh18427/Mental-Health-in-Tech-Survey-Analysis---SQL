@@ -40,28 +40,25 @@ This data is from Open Source Mental Illness (OSMI) using survey data from the y
    - **Handling Missing Values**: Identified and addressed missing values in critical columns.
    - **Standardizing Categorical Variables**: Standardized entries in the 'Gender' column to ensure consistency.
    - **Outlier Treatment**: Identified and handled outlies in the 'Age' column for efficient analysis.
-   ![image](https://github.com/user-attachments/assets/68246b40-fe52-42ec-9962-d85063a715a1)
 
 3. **Exploratory Analysis**:
    - **Demographics**: Analyzed age and gender distributions.
    - **Geographical Distribution**: Examined respondent distribution across countries.
    - **Employment Factors**: Investigated the relationship between self-employment, company size, remote work, and mental health.
    - **Mental Health Treatment**: Assessed the proportion of respondents who have sought treatment and the impact of family history.
-   - **Workplace Support**: Evaluated the availability of mental health benefits, wellness programs, and the ease of taking leave for mental health reasons.
 
 4. **Visualization**: Utilized Python libraries to create visual representations of the findings, including bar charts, histograms, and pie charts. 
 
 ## Key Findings
 
-- **Age Distribution**: The majority of respondents are between 25 and 35 years old.
+- **Age Distribution**: Most respondents are between 25 and 35 years old.
 - **Gender Representation**: Predominantly male respondents, with a smaller proportion of female and non-binary individuals.
-- **Geographical Insights**: Highest number of responses from the United States, followed by other countries.
+- **Geographical Insights**: The highest number of responses was from the United States, followed by other countries.
 - **Mental Health Treatment**: A significant portion has sought mental health treatment, with family history being a contributing factor.
-- **Workplace Factors**: Availability of mental health benefits and wellness programs varies, influencing employees' willingness to discuss mental health issues.
 
 ## Conclusion
 
-The analysis provides insights into the state of mental health awareness and support within the tech industry. It highlights areas where organizations can improve resources and foster an environment that encourages open discussions about mental health.
+The analysis provides insights into mental health awareness and support within the tech industry. It highlights areas where organizations can improve resources and foster an environment encouraging open discussions about mental health.
 
 ## Repository Structure
 
