@@ -58,7 +58,7 @@ This data is from Open Source Mental Illness (OSMI) using survey data from the y
    <img width="596" alt="image" src="https://github.com/user-attachments/assets/38634d34-5416-4272-8d95-270ad14fa633" />
 
 - **Gender Representation**: Predominantly male respondents, with a smaller proportion of female and non-binary individuals.
-- 
+  
    <img width="596" alt="image" src="https://github.com/user-attachments/assets/32c4ec23-07f4-4933-bb0f-ef2f3c6889c7" />
    
 - **Geographical Insights**: The highest number of responses was from the United States, followed by other countries.
