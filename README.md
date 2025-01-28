@@ -58,7 +58,7 @@ This data is from Open Source Mental Illness (OSMI) using survey data from the y
       <img width="595" alt="image" src="https://github.com/user-attachments/assets/dde7fa91-56a6-468c-8e8b-605261c05c09" />
       
    - **Mental Health Treatment**: Assessed the proportion of respondents who have sought treatment and the impact of family history.
-   - 
+     
       <img width="296" alt="image" src="https://github.com/user-attachments/assets/62b089b0-1f0d-4810-9402-6a54ef912490" />
       <img width="594" alt="image" src="https://github.com/user-attachments/assets/6354748b-2e99-44f9-9c18-4620846a36dd" />
 
