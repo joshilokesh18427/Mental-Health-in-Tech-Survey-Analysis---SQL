@@ -40,36 +40,36 @@ This data is from Open Source Mental Illness (OSMI) using survey data from the y
    - **Handling Missing Values**: Identified and addressed missing values in critical columns.
    - **Standardizing Categorical Variables**: Standardized entries in the 'Gender' column to ensure consistency.
    - **Outlier Treatment**: Identified and handled outlies in the 'Age' column for efficient analysis.
+     
       <img width="599" alt="image" src="https://github.com/user-attachments/assets/3b6a9903-6d65-4b5a-8d0c-8316db72acf1" />
 
 3. **Exploratory Analysis**:
    - **Demographics**: Analyzed age and gender distributions.
-   - 
-      <img width="596" alt="image" src="https://github.com/user-attachments/assets/38634d34-5416-4272-8d95-270ad14fa633" />
-      <img width="596" alt="image" src="https://github.com/user-attachments/assets/32c4ec23-07f4-4933-bb0f-ef2f3c6889c7" />
-      
-   - **Geographical Distribution**: Examined respondent distribution across countries.
-   - 
-      <img width="599" alt="image" src="https://github.com/user-attachments/assets/4676fc26-b9dc-479b-804c-6f103debdf9e" />
-      <img width="598" alt="image" src="https://github.com/user-attachments/assets/c166cb62-ed66-41d4-9f4f-50d6a78fe05c" />
-      
-   - **Employment Factors**: Investigated the relationship between self-employment, company size, remote work, and mental health.
-     
-      <img width="595" alt="image" src="https://github.com/user-attachments/assets/dde7fa91-56a6-468c-8e8b-605261c05c09" />
-      
+   - **Geographical Distribution**: Examined respondent distribution across countries. 
+   - **Employment Factors**: Investigated the relationship between self-employment, company size, remote work, and mental health.      
    - **Mental Health Treatment**: Assessed the proportion of respondents who have sought treatment and the impact of family history.
      
-      <img width="296" alt="image" src="https://github.com/user-attachments/assets/62b089b0-1f0d-4810-9402-6a54ef912490" />
-      <img width="594" alt="image" src="https://github.com/user-attachments/assets/6354748b-2e99-44f9-9c18-4620846a36dd" />
-
 4. **Visualization**: Utilized Python libraries to create visual representations of the findings, including bar charts, histograms, and pie charts. 
 
 ## Key Findings
 
 - **Age Distribution**: Most respondents are between 25 and 35 years old.
+  
+   <img width="596" alt="image" src="https://github.com/user-attachments/assets/38634d34-5416-4272-8d95-270ad14fa633" />
+
 - **Gender Representation**: Predominantly male respondents, with a smaller proportion of female and non-binary individuals.
+- 
+   <img width="596" alt="image" src="https://github.com/user-attachments/assets/32c4ec23-07f4-4933-bb0f-ef2f3c6889c7" />
+   
 - **Geographical Insights**: The highest number of responses was from the United States, followed by other countries.
+  
+   <img width="599" alt="image" src="https://github.com/user-attachments/assets/4676fc26-b9dc-479b-804c-6f103debdf9e" />
+   <img width="598" alt="image" src="https://github.com/user-attachments/assets/c166cb62-ed66-41d4-9f4f-50d6a78fe05c" />
+   
 - **Mental Health Treatment**: A significant portion has sought mental health treatment, with family history being a contributing factor.
+
+   <img width="296" alt="image" src="https://github.com/user-attachments/assets/62b089b0-1f0d-4810-9402-6a54ef912490" />
+   <img width="594" alt="image" src="https://github.com/user-attachments/assets/6354748b-2e99-44f9-9c18-4620846a36dd" />
 
 ## Conclusion
 
